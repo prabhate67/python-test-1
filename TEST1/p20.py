@@ -1,0 +1,5 @@
+tutuion_fee=int(input("Enter the fee"))
+exam_fee=int(input("enter the fee"))
+lab_fee=int(input("enter the fee"))
+library_fee=int(input("enter the fee"))
+print("The total fee is=", tutuion_fee+exam_fee+lab_fee+library_fee)

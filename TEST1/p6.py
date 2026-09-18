@@ -1,0 +1,5 @@
+python=int(input("Enter your python marks"))
+java=int(input("Enter your java marks"))
+mathematics=int(input("Enter your maths marks"))
+english=int(input("Enter your english marks"))
+print("Total Marks=", python+java+mathematics+english)
